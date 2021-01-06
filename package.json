@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.10.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "fractional": "^1.0.0",
     "uniqid": "^5.2.0"
